@@ -1,2 +1,2 @@
 # CodingDojo
-House for Coding bootcamp course work
+House for code bootcamp course work
