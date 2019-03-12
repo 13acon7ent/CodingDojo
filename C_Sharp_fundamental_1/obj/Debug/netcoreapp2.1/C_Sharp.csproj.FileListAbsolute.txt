@@ -1,0 +1,11 @@
+/Users/NickZent/C_Sharp/bin/Debug/netcoreapp2.1/C_Sharp.deps.json
+/Users/NickZent/C_Sharp/bin/Debug/netcoreapp2.1/C_Sharp.runtimeconfig.json
+/Users/NickZent/C_Sharp/bin/Debug/netcoreapp2.1/C_Sharp.runtimeconfig.dev.json
+/Users/NickZent/C_Sharp/bin/Debug/netcoreapp2.1/C_Sharp.dll
+/Users/NickZent/C_Sharp/bin/Debug/netcoreapp2.1/C_Sharp.pdb
+/Users/NickZent/C_Sharp/obj/Debug/netcoreapp2.1/C_Sharp.csprojAssemblyReference.cache
+/Users/NickZent/C_Sharp/obj/Debug/netcoreapp2.1/C_Sharp.csproj.CoreCompileInputs.cache
+/Users/NickZent/C_Sharp/obj/Debug/netcoreapp2.1/C_Sharp.AssemblyInfoInputs.cache
+/Users/NickZent/C_Sharp/obj/Debug/netcoreapp2.1/C_Sharp.AssemblyInfo.cs
+/Users/NickZent/C_Sharp/obj/Debug/netcoreapp2.1/C_Sharp.dll
+/Users/NickZent/C_Sharp/obj/Debug/netcoreapp2.1/C_Sharp.pdb
