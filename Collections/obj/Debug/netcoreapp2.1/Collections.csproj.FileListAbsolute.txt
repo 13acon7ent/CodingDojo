@@ -1,0 +1,11 @@
+/Users/NickZent/CSharp/Collections/bin/Debug/netcoreapp2.1/Collections.deps.json
+/Users/NickZent/CSharp/Collections/bin/Debug/netcoreapp2.1/Collections.runtimeconfig.json
+/Users/NickZent/CSharp/Collections/bin/Debug/netcoreapp2.1/Collections.runtimeconfig.dev.json
+/Users/NickZent/CSharp/Collections/bin/Debug/netcoreapp2.1/Collections.dll
+/Users/NickZent/CSharp/Collections/bin/Debug/netcoreapp2.1/Collections.pdb
+/Users/NickZent/CSharp/Collections/obj/Debug/netcoreapp2.1/Collections.csprojAssemblyReference.cache
+/Users/NickZent/CSharp/Collections/obj/Debug/netcoreapp2.1/Collections.csproj.CoreCompileInputs.cache
+/Users/NickZent/CSharp/Collections/obj/Debug/netcoreapp2.1/Collections.AssemblyInfoInputs.cache
+/Users/NickZent/CSharp/Collections/obj/Debug/netcoreapp2.1/Collections.AssemblyInfo.cs
+/Users/NickZent/CSharp/Collections/obj/Debug/netcoreapp2.1/Collections.dll
+/Users/NickZent/CSharp/Collections/obj/Debug/netcoreapp2.1/Collections.pdb
