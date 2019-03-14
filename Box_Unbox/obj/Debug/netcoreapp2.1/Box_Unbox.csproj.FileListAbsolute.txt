@@ -1,0 +1,11 @@
+/Users/NickZent/CSharp/Box_Unbox/bin/Debug/netcoreapp2.1/Box_Unbox.deps.json
+/Users/NickZent/CSharp/Box_Unbox/bin/Debug/netcoreapp2.1/Box_Unbox.runtimeconfig.json
+/Users/NickZent/CSharp/Box_Unbox/bin/Debug/netcoreapp2.1/Box_Unbox.runtimeconfig.dev.json
+/Users/NickZent/CSharp/Box_Unbox/bin/Debug/netcoreapp2.1/Box_Unbox.dll
+/Users/NickZent/CSharp/Box_Unbox/bin/Debug/netcoreapp2.1/Box_Unbox.pdb
+/Users/NickZent/CSharp/Box_Unbox/obj/Debug/netcoreapp2.1/Box_Unbox.csprojAssemblyReference.cache
+/Users/NickZent/CSharp/Box_Unbox/obj/Debug/netcoreapp2.1/Box_Unbox.csproj.CoreCompileInputs.cache
+/Users/NickZent/CSharp/Box_Unbox/obj/Debug/netcoreapp2.1/Box_Unbox.AssemblyInfoInputs.cache
+/Users/NickZent/CSharp/Box_Unbox/obj/Debug/netcoreapp2.1/Box_Unbox.AssemblyInfo.cs
+/Users/NickZent/CSharp/Box_Unbox/obj/Debug/netcoreapp2.1/Box_Unbox.dll
+/Users/NickZent/CSharp/Box_Unbox/obj/Debug/netcoreapp2.1/Box_Unbox.pdb
