@@ -1,0 +1,11 @@
+/Users/NickZent/CSharp/Basic13/obj/Debug/netcoreapp2.1/Basic13.csprojAssemblyReference.cache
+/Users/NickZent/CSharp/Basic13/obj/Debug/netcoreapp2.1/Basic13.csproj.CoreCompileInputs.cache
+/Users/NickZent/CSharp/Basic13/obj/Debug/netcoreapp2.1/Basic13.AssemblyInfoInputs.cache
+/Users/NickZent/CSharp/Basic13/obj/Debug/netcoreapp2.1/Basic13.AssemblyInfo.cs
+/Users/NickZent/CSharp/Basic13/bin/Debug/netcoreapp2.1/Basic13.deps.json
+/Users/NickZent/CSharp/Basic13/bin/Debug/netcoreapp2.1/Basic13.runtimeconfig.json
+/Users/NickZent/CSharp/Basic13/bin/Debug/netcoreapp2.1/Basic13.runtimeconfig.dev.json
+/Users/NickZent/CSharp/Basic13/bin/Debug/netcoreapp2.1/Basic13.dll
+/Users/NickZent/CSharp/Basic13/bin/Debug/netcoreapp2.1/Basic13.pdb
+/Users/NickZent/CSharp/Basic13/obj/Debug/netcoreapp2.1/Basic13.dll
+/Users/NickZent/CSharp/Basic13/obj/Debug/netcoreapp2.1/Basic13.pdb

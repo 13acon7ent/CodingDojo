@@ -1,0 +1,11 @@
+/Users/NickZent/CSharp/WNS/obj/Debug/netcoreapp2.1/WNS.csprojAssemblyReference.cache
+/Users/NickZent/CSharp/WNS/obj/Debug/netcoreapp2.1/WNS.csproj.CoreCompileInputs.cache
+/Users/NickZent/CSharp/WNS/obj/Debug/netcoreapp2.1/WNS.AssemblyInfoInputs.cache
+/Users/NickZent/CSharp/WNS/obj/Debug/netcoreapp2.1/WNS.AssemblyInfo.cs
+/Users/NickZent/CSharp/WNS/bin/Debug/netcoreapp2.1/WNS.deps.json
+/Users/NickZent/CSharp/WNS/bin/Debug/netcoreapp2.1/WNS.runtimeconfig.json
+/Users/NickZent/CSharp/WNS/bin/Debug/netcoreapp2.1/WNS.runtimeconfig.dev.json
+/Users/NickZent/CSharp/WNS/bin/Debug/netcoreapp2.1/WNS.dll
+/Users/NickZent/CSharp/WNS/bin/Debug/netcoreapp2.1/WNS.pdb
+/Users/NickZent/CSharp/WNS/obj/Debug/netcoreapp2.1/WNS.dll
+/Users/NickZent/CSharp/WNS/obj/Debug/netcoreapp2.1/WNS.pdb

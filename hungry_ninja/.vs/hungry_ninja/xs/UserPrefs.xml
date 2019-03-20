@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CD7EB294-90B2-4052-AF3C-D7DCD256F108}|Default">
+  <MonoDevelop.Ide.ItemProperties.hungry__ninja PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Buffet.cs">
+    <Files>
+      <File FileName="Buffet.cs" Line="23" Column="10" />
+      <File FileName="Food.cs" Line="1" Column="1" />
+      <File FileName="Ninja.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hungry_ninja" expanded="True">
+            <Node name="hungry_ninja" expanded="True">
+              <Node name="Buffet.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
